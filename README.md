@@ -7,6 +7,7 @@ It uses Marker based AR technology to detect specific markers and trigger events
 2) AR.js
 3) Afrane AR framework
 4) AFrame Extras
+5) Howler.js
 
 The AR system used here is : Marker based tracking
 Marker Type used: barcode markers
